@@ -12,7 +12,6 @@ class App extends Component {
 
 <body>
 
-// Navigation Section
 
 <nav>
   <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_burger-logo.svg" />
@@ -22,28 +21,26 @@ class App extends Component {
   <span><a href="#">LOCATIONS</a></span>
 </nav>
 
-//  Content Section -->
 
 <div class="content">
 
-  // Content Header -->
+
 
   <div class="header">
     <h1>BBQ BACON BURGER</h1>
   </div>
 
-  // Content Body -->
+
 
   <div class="body">
     <p>
       Our BBQ Bacon Burger features our special house ground blend of wagyu and sirloin, spiced perfectly, and finished off with just a drop of white truffle oil. A butter grilled brioche bun layered with roasted red onion, perfectly crispy pork belly, and our hickory smoked BBQ sauce.
     </p>
 
-    // Order Button -->
 
     <a href="#" class="button">ORDER NOW</a>
 
-    // Nutrition Information -->
+  
 
     <ul class="nutrition">
       <li>
